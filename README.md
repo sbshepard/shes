@@ -1,3 +1,3 @@
 # shes
 Coursera
-this is jst a test
+this is just a test
